@@ -1,16 +1,29 @@
-### Hi there 👋
+### I'am Hanzell Rivera :grinning: -- @RiveraHan
 
-<!--
-**RiveraHan/RiveraHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hanzell Rivera](https://riverahan.github.io/img/perfil-hanzell.jpg)
 
-Here are some ideas to get you started:
+[RiveraHan](https://riverahan.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Application Developer. I am passionate about the world of programming. :heart: Technology in all its forms. :computer: :computer:
+
+#### Technologies that I am passionate about :heart_eyes: :muscle:
+
+- JavaScript
+- NodeJS
+- Express
+- Angular
+- MongoDB
+
+##### Other technologies :point_down:
+
+- C#
+- Java
+- SQL
+
+##### follow me :v:
+
+* [WebSite](https://riverahan.github.io/)
+* [Twiter](https://twitter.com/rivera_hanzell)
+* [Linkedin](https://www.linkedin.com/in/hanzell-rivera-027539175/)
+* [Facebook](https://www.facebook.com/hanzellerivera/)
+* [Instagram](https://www.instagram.com/hanzellriverap/)
