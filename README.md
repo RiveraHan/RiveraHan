@@ -1,6 +1,6 @@
 ### I'am Hanzell Rivera :grinning: -- @RiveraHan
 
-![Hanzell Rivera](https://riverahan.github.io/img/perfil-hanzell.jpg)
+![Hanzell Rivera](https://github.com/account)
 
 [RiveraHan](https://riverahan.github.io/)
 
