@@ -1,6 +1,6 @@
 ### I'am Hanzell Rivera :grinning: -- @RiveraHan
 
-![Hanzell Rivera](https://avatars0.githubusercontent.com/u/55303043?s=460&u=f2372a9ddc75b79b6b2e3893c7208d7484f7ee9d&v=4)
+![Hanzell Rivera](https://avatars.githubusercontent.com/u/55303043?s=400&u=806cd0cf009147a19840aed7278d1acf56de182b&v=4)
 
 [RiveraHan](https://riverahan.github.io)
 
