@@ -4,7 +4,7 @@
 
 [RiveraHan](https://riverahan.github.io)
 
-Web Application Developer. I am passionate about the world of programming. :heart: Technology in all its forms. :computer: :computer:
+Full Stack Developer. I am passionate about the world of programming. :heart: Technology in all its forms. :computer: :computer:
 
 #### Technologies Skills :heart_eyes: :muscle:
 
@@ -24,5 +24,4 @@ Web Application Developer. I am passionate about the world of programming. :hear
 * [WebSite](https://riverahan.github.io)
 * [Twiter](https://twitter.com/rivera_hanzell)
 * [Linkedin](https://www.linkedin.com/in/hanzell-rivera-027539175)
-* [Facebook](https://www.facebook.com/hanzellerivera)
 * [Instagram](https://www.instagram.com/hanzellriverap)
