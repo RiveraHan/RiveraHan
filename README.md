@@ -6,19 +6,17 @@
 
 Web Application Developer. I am passionate about the world of programming. :heart: Technology in all its forms. :computer: :computer:
 
-#### Technologies that I am passionate about :heart_eyes: :muscle:
+#### Technologies Skills :heart_eyes: :muscle:
 
 - JavaScript
+- ReactJS
+- NextJS
 - NodeJS
 - Express
 - ReactJS
 - Angular
 - MongoDB
-
-##### Other technologies :point_down:
-
 - C#
-- Java
 - SQL
 
 ##### follow me :v:
