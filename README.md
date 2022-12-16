@@ -9,14 +9,18 @@ Full Stack Developer. I am passionate about the world of programming. :heart: Te
 #### Technologies Skills :heart_eyes: :muscle:
 
 - JavaScript
+- TypeScript
 - ReactJS
 - NextJS
 - NodeJS
 - Express
 - ReactJS
 - Angular
-- MongoDB
 - C#
+- HTML
+- CSS
+- Tailwind
+- NoSQL
 - SQL
 
 ##### follow me :v:
@@ -24,4 +28,3 @@ Full Stack Developer. I am passionate about the world of programming. :heart: Te
 * [WebSite](https://riverahan.github.io)
 * [Twiter](https://twitter.com/rivera_hanzell)
 * [Linkedin](https://www.linkedin.com/in/hanzell-rivera-027539175)
-* [Instagram](https://www.instagram.com/hanzellriverap)
