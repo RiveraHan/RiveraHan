@@ -14,7 +14,9 @@ Full Stack Developer. I am passionate about the world of programming. :heart: Te
 - NextJS
 - NodeJS
 - Express
+- NesJS
 - ReactJS
+- React Native
 - Angular
 - C#
 - HTML
