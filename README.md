@@ -10,12 +10,12 @@ Full Stack Developer. I am passionate about the world of programming. :heart: Te
 
 - JavaScript
 - TypeScript
+- Dart
+- Python
+- Flutter
 - ReactJS
-- NextJS
 - NodeJS
 - Express
-- NesJS
-- ReactJS
 - React Native
 - Angular
 - C#
@@ -28,5 +28,4 @@ Full Stack Developer. I am passionate about the world of programming. :heart: Te
 ##### follow me :v:
 
 * [WebSite](https://riverahan.github.io)
-* [Twiter](https://twitter.com/rivera_hanzell)
 * [Linkedin](https://www.linkedin.com/in/hanzell-rivera-027539175)
