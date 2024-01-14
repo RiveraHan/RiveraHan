@@ -1,19 +1,19 @@
-### I'am Hanzell Rivera :grinning: -- @RiveraHan
+### I'am Hanzell Rivera :grinning:
 
-![Hanzell Rivera](https://avatars.githubusercontent.com/u/55303043?s=400&u=806cd0cf009147a19840aed7278d1acf56de182b&v=4)
 
-[RiveraHan](https://riverahan.github.io)
+[Portfolio](https://hanzellrivera.vercel.app)
 
 Full Stack Developer. I am passionate about the world of programming. :heart: Technology in all its forms. :computer: :computer:
 
 #### Technologies Skills :heart_eyes: :muscle:
 
-- JavaScript
+- JavaScript 
 - TypeScript
 - Dart
 - Python
 - Flutter
 - ReactJS
+- Astro
 - NodeJS
 - Express
 - React Native
@@ -27,5 +27,5 @@ Full Stack Developer. I am passionate about the world of programming. :heart: Te
 
 ##### follow me :v:
 
-* [WebSite](https://riverahan.github.io)
-* [Linkedin](https://www.linkedin.com/in/hanzell-rivera-027539175)
+* [WebSite](https://hanzellrivera.vercel.app)
+* [Linkedin](https://www.linkedin.com/in/hanzell-rivera)
