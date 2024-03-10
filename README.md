@@ -25,7 +25,7 @@ Full Stack Developer. I am passionate about the world of programming. :heart: Te
 - NoSQL
 - SQL
 
-##### follow me :v:
+##### Social Media
 
-* [WebSite](https://hanzellrivera.vercel.app)
 * [Linkedin](https://www.linkedin.com/in/hanzell-rivera)
+* [Twitter](https://twitter.com/hanzellrivera)
